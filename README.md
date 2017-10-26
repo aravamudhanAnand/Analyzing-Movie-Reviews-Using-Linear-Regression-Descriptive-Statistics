@@ -1,4 +1,4 @@
-In this project, you'll be working with Jupyter notebook, and analyzing data on movie review scores. 
+In this project, analyzed data on movie review scores using linregress, matplotlib and other scipy packages on Jupyter notebook.
 
 The dataset is stored in the fandango_score_comparison.csv file. 
 It contains information on how major movie review services rated movies. 
